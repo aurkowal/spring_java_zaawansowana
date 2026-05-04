@@ -1,0 +1,2 @@
+Jan Kowalski, jan@example.com
+Anna Nowak, anna@example.com
